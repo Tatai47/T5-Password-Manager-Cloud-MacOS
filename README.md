@@ -13,7 +13,7 @@
 
   <br><br>
 
-  <a href="[https://drive.google.com/file/d/1vVnGGUPWfyVIBRZYlO_DwsMdX_89nKQ5/view?usp=sharing](https://github.com/Tatai47/T5-Password-Manager-Cloud-MacOS/raw/refs/heads/main/T5_Password_Manager.dmg)">
+  <a href="https://github.com/Tatai47/T5-Password-Manager-Cloud-MacOS/raw/refs/heads/main/T5_Password_Manager.dmg">
     <img src="https://img.shields.io/badge/Download-For_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS">
   </a>
 
